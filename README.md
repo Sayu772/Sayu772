@@ -28,4 +28,4 @@ I am a passionate **1st-Year Full Stack Software Engineering Undergraduate** at 
 
 ### 🌐 Connect with Me
 - **Email:** pg.sayunidamsandi@gmail.com
--
+- **LinkedIn:** https://www.linkedin.com/in/sayuni-damsandi-a5338a447/
